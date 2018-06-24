@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1525769699 source:d:\education\projects\my big bang\hotel management\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<direct.h>
+	<string>
+	<iomanip>
+	<vector>
+	<sstream>
+
+1524274006 source:c:\users\mahmoud nasser\desktop\hotel management\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<direct.h>
+	<string>
+	<iomanip>
+	<vector>
+	<sstream>
+
